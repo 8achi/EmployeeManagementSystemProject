@@ -1,0 +1,111 @@
+
+.main-box{
+  width: 25em;
+  text-align: center;
+  /* margin-left: 560px; */
+}
+.title-box{
+  margin-top:100px;
+  margin-bottom :10px;
+}
+.add{
+  width: 22em;
+
+  margin-bottom:10px;
+}
+.cancel{
+width: 22em;
+}
+p{
+  color:red;
+  font-size:12px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  background: url(bg-nature.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+label{
+  color: #fff;
+}
+.img{
+  margin-left: 30px;
+  margin-right:100px;
+  height:240px;
+  width:240px;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+
+  margin: auto;
+}
+
+.form-control{
+  background:transparent;
+}
+
+
+.top {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.middle {
+  margin-bottom:-1px;
+  margin-top: -1px;
+}
+
+.bottom {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.btn-s{
+  margin-top:10px;
+}  */
